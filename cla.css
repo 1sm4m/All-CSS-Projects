@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  background-color: #cde7dd;
+  color: #2f4f4f;
+}
+
+h2 {
+  text-align: center;
+  background-color: #dcefe4;
+  color: #34564a;
+}
+
+p {
+  text-align: justify;
+  background-color: #f5f9f7;
+  color: #445544;
+}
+
+ul {
+  text-align: justify;
+  background-color: #fefefe;
+  color: #556b5d;
+}
+
+li {
+  background-color: #eef6f1;
+  color: #3d5245;
+}
